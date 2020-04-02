@@ -1,6 +1,6 @@
 # About
 
-calc_fl is a sample calculation application built using Dart.
+calc_fl is a sample calculator application built using Dart.
 
 ## Build
 
